@@ -1,0 +1,8 @@
+# 本地原始视频
+*.mp4
+
+# 安装包通过 GitHub Releases 分发
+*.whl
+
+# macOS 目录元数据
+.DS_Store
